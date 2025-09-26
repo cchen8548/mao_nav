@@ -26,6 +26,27 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "吹水社区",
           "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "site-1758865474812",
+          "name": "IT Tools",
+          "url": "https://tools.picshow.us:50007/",
+          "description": "IT工具集",
+          "icon": "https://docs.cloudron.io/img/it-tools-logo.png"
+        },
+        {
+          "id": "site-1758865567495",
+          "name": "Wormhole",
+          "url": "https://wormhole.app/",
+          "description": "简单，私密的文件分享",
+          "icon": "https://ts1.tc.mm.bing.net/th/id/OIP-C.nhcsFoctNfG1U80kfzVH_gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+        },
+        {
+          "id": "site-1758865655456",
+          "name": "NewsNow",
+          "url": "https://news.868767.xyz/",
+          "description": "新闻聚合站",
+          "icon": "https://matthew.kr/wp-content/uploads/2014/07/NOW_News_Logo.png"
         }
       ]
     }
