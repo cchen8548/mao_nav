@@ -122,7 +122,7 @@ export const mockData = {
         },
         {
           "id": "site-1758867867738",
-          "name": "36氪",
+          "name": "少数派",
           "url": "https://sspai.com/",
           "description": "高效工作 品质生活",
           "icon": "https://huashuimoyu.com/image/thirdlogo/sspai.png"
