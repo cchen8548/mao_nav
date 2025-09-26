@@ -123,9 +123,9 @@ export const mockData = {
         {
           "id": "site-1758867867738",
           "name": "36氪",
-          "url": "https://36kr.com/",
-          "description": "让一部分人先看到未来",
-          "icon": "https://static.36krcdn.com/36kr-mobile/static/logo.78b8c245.png"
+          "url": "https://sspai.com/",
+          "description": "高效工作 品质生活",
+          "icon": "https://huashuimoyu.com/image/thirdlogo/sspai.png"
         },
         {
           "id": "site-1758867947015",
