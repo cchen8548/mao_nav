@@ -99,6 +99,42 @@ export const mockData = {
           "icon": "https://zhengxin-pub.cdn.bcebos.com/logopic/ae5b6588643b7e72b2c57bfe60b38ade_fullsize.jpg"
         }
       ]
+    },
+    {
+      "id": "category-1758867334633",
+      "icon": "🌐",
+      "name": "新闻资讯",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1758867471911",
+          "name": "ZAKER新闻",
+          "url": "http://www.myzaker.com/",
+          "description": "传递价值资讯",
+          "icon": "https://th.bing.com/th/id/R.689dbe92bd27e4f4bec0eaed519d93c9?rik=Pt%2baYWXDm9V7Yw&riu=http%3a%2f%2fwww.lgstatic.com%2fthumbnail_300x300%2fimage1%2fM00%2f0D%2f94%2fCgYXBlT4GNWAHKzlAAAqz31ocXY814.png&ehk=N4o8PTcLZrqskr0ZuAtgVD4MUXAeMoHSsTaV5zGh7pI%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+          "id": "site-1758867658496",
+          "name": "果壳",
+          "url": "https://www.guokr.com/",
+          "description": "科技有意思",
+          "icon": "https://tse1.mm.bing.net/th/id/OIP.qC01XjktFJnsue_JO6WfuAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+        },
+        {
+          "id": "site-1758867867738",
+          "name": "36氪",
+          "url": "https://36kr.com/",
+          "description": "让一部分人先看到未来",
+          "icon": "https://static.36krcdn.com/36kr-mobile/static/logo.78b8c245.png"
+        },
+        {
+          "id": "site-1758867947015",
+          "name": "果壳剥壳",
+          "url": "https://www.ghxi.com/",
+          "description": "互联网的净土",
+          "icon": "https://th.bing.com/th/id/R.00f8780f09d5d13627588fd793c5d613?rik=5acBgriVQjB%2fZg&riu=http%3a%2f%2finews.gtimg.com%2fnewsapp_ls%2f0%2f12772709927_200200%2f0&ehk=5yLTGyCMCgB41eISlVzgRRA%2b6PG6MEPaJ8Loz76w6f8%3d&risl=&pid=ImgRaw&r=0"
+        }
+      ]
     }
   ],
   "title": "酷猫导航"
