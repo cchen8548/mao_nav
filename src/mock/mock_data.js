@@ -31,8 +31,8 @@ export const mockData = {
           "id": "site-1758865474812",
           "name": "IT Tools",
           "url": "https://tools.picshow.us:50007/",
-          "description": "IT工具集",
-          "icon": "https://docs.cloudron.io/img/it-tools-logo.png"
+          "description": "效率工具集",
+          "icon": "https://ts2.tc.mm.bing.net/th/id/OIP-C.J3ORCq5IQgIXVs5y6CGbFQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
         },
         {
           "id": "site-1758865567495",
